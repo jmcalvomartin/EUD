@@ -6,7 +6,7 @@ Bienvenido a EuropeanValley Development
 # Developer Workspace
 
 
-FROM [codenvy/php](https://hub.docker.com/r/codenvy/php/)
+FROM [repovps/eud](https://hub.docker.com/r/repovps/eud/)
 
 # Commands to run
 

@@ -1,6 +1,6 @@
 # cloud
-Cloud ID
-# web-EuropeanValley
+EUD
+# Proyectos-Web-EuropeanValley
 Bienvenido a EuropeanValley Development
 
 # Developer Workspace
@@ -17,6 +17,6 @@ FROM [codenvy/php](https://hub.docker.com/r/codenvy/php/)
 | 3      | Reiniciar Servidor Web      |    `sudo service apache2 restart` |
 | 4     | Arrancar Base de Datos  | `sudo service mysqld start`
 
-# Preview URL
+# Vista Previa de los proyectos
 
 code.europeanvalley.es:$mappedPort/$projectName
